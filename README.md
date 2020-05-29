@@ -1,6 +1,6 @@
 # Angular 9 CRUD App
 
-Simple CRUD application built with Angular 9
+Simple CRUD application built with Angular 9.
 
 ## Getting Started
 
